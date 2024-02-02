@@ -1,7 +1,7 @@
 # 数据格式可以为 yaml(文件以.yml结尾) 或者json(文件以.json结尾)
 # 如果YAML格式的数据请先检查格式是否有误，可选检查工具 http://www.yamllint.com
 
-title: "王振飞"
+title: "JLU-wzf"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "王振飞"
 #jobtitle: "求职意向" #可空不显示
@@ -30,14 +30,22 @@ main: #简历主要内容，
 - type: education #类别为ID
   name: 教育 #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
-  - title: 大学名称
-    duration: "2011年x月 - 2015年"
-    sub: 地点或学历
-    detail: 专业或者简短说明
-  - title: Your University
-    duration: Aug 2007 - Jun 2011
-    sub: Ut enim ad minim veniam
-    detail: Master Bachelor of Computer Science & Technology.
+  - title: 山东科技大学
+    duration: "2019年9月 - 2023年6月"
+    sub: 山东青岛 本科
+    detail: 地质工程专业
+  - title: Shandong University of Science and Technology
+    duration: Sep 2019 - Jun 2023
+    sub: Qingdao, Shandong. undergraduate
+    detail: Geological Engineering
+  - title: 吉林大学
+    duration: "2023年8月 - 至今"
+    sub: 吉林长春 硕士研究生
+    detail: 地质工程专业
+  - title: Jilin University
+    duration: Aug 2023 - now
+    sub: Changchun, Jilin. postgraduate student
+    detail: Geological Engineering
 
 - type: skills
   # name: "技能"

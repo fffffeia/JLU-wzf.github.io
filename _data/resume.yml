@@ -15,9 +15,9 @@ contact: #联系方式连接等3~5行
 - text: "13796552634"
   href: ''
   icon: 'icons/phone.svg'
-#- text: "your-website.com"
- # href: 'http://your-website.com'
-  #icon: 'icons/web.svg'
+- text: "黑龙江省绥化市"
+  href: ''
+  icon: 'icons/location.svg'
 #- text: "GitHubID"
  # href: 'https://github.com/NewFuture'
   #icon: "icons/github.svg"

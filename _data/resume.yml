@@ -4,7 +4,7 @@
 title: "JLU-wzf"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "王振飞"
-jobtitle: "Wang Zhenfei" #可空不显示
+jobtitle: "Zhenfei Wang" #可空不显示
 photo: "assets/img/wzf.jpg" #照片可空，不显示
 
 #联系方式
@@ -15,7 +15,7 @@ contact: #联系方式连接等3~5行
 - text: "13796552634"
   href: ''
   icon: 'icons/phone.svg'
-- text: "黑龙江省绥化市"
+- text: "黑龙江绥化"
   href: ''
   icon: 'icons/location.svg'
 #- text: "GitHubID"
@@ -32,47 +32,30 @@ main: #简历主要内容，
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
   - title: 山东科技大学
     duration: "2019年9月 - 2023年6月"
-    sub: 山东青岛 本科
+    sub: 山东青岛 工学学士
     detail: 地质工程专业
-  - title: Shandong University of Science and Technology
-    duration: Sep 2019 - Jun 2023
-    sub: Qingdao, Shandong. undergraduate
-    detail: Geological Engineering
+
   - title: 吉林大学
     duration: "2023年8月 - 至今"
     sub: 吉林长春 硕士研究生
     detail: 地质工程专业
-  - title: Jilin University
-    duration: Aug 2023 - now
-    sub: Changchun, Jilin. postgraduate student
-    detail: Geological Engineering
 
 - type: skills
-  # name: "技能"
+  name: "专业技能"
   content:
   - title: 编程语言
     items: #itmems 可以小块的方式显示
-    - 汉语
-    - 英语
-  - title: Skill Group
-    detail: Chinese, English
+    - Visual Basic
+  - title: 英语
+    items: #itmems 可以小块的方式显示
+    - CET-6
 
 - type: research direction #类别为ID
   name: 研究方向 #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
   - title: 岩体裂隙的热红外及温湿度传递规律研究。
     detail: 探究在室外堆积出的大型岩体裂隙模型的热红外响应及模型内部水汽运移规律。
-  - title: A study of thermal infrared and temperature and humidity transfer patterns in rock fissures.
-    detail: Exploring the thermal infrared response of a large rock fissure model piled up outdoors and the water vapor transport patterns within the model.
 
-- type: projects
-  name: 研究成果
-  content:
-  - title: 无
-    detail: 无.
-  - title: ...
-    detail: ...
-   #可继续添加更多内容
 
 #others 其他简略内容(列表)
 others: #其他列表显示
@@ -83,10 +66,7 @@ others: #其他列表显示
     items: #单行列表
     - 散步
     - 羽毛球
-  - title: "hobbies："
-    items: #单行列表
-    - stroll
-    - badminton
+
 
 #footer 脚注，打印版和web版不同不显示    
 footer: #脚注多组

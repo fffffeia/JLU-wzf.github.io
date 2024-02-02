@@ -4,7 +4,7 @@
 title: "JLU-wzf"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "王振飞"
-#jobtitle: "求职意向" #可空不显示
+jobtitle: "Wang Zhenfei" #可空不显示
 photo: "assets/img/wzf.jpg" #照片可空，不显示
 
 #联系方式

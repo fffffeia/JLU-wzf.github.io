@@ -79,14 +79,14 @@ others: #其他列表显示
 - type: others #ID可以为空
   name: '爱好'
   content: #选择需要的格式
-  - title: "兴趣爱好"
-    items: #单行列表
-    - 散步
-    - 羽毛球
-  - title: "hobbies"
-    items: #单行列表
-    - stroll
-    - badminton
+  - title: "散步、羽毛球"
+#    items: #单行列表
+  #  - 散步
+#    - 羽毛球
+  - title: "stroll, badminton"
+ #   items: #单行列表
+ #   - stroll
+ #   - badminton
 
 #footer 脚注，打印版和web版不同不显示    
 footer: #脚注多组

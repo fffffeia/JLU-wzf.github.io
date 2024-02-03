@@ -60,8 +60,7 @@ main: #简历主要内容，
 - type: research direction #类别为ID
   name: 研究方向 #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
-  - title: 岩体裂隙的热红外及温湿度传递规律研究。
-    detail: 探究在室外堆积出的大型岩体裂隙模型的热红外响应及模型内部水汽运移规律。
+  - title: 岩体裂隙的热红外及温湿度传递规律研究
 
 - type: hobbies #类别为ID
   name: 兴趣爱好 #显示名称，空则使用type
